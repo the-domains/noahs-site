@@ -1,0 +1,28 @@
+name: Noahs-site
+favicon: null
+layout_spectrum: 0.6405018449295312
+typography_spectrum: 0.048400396248325706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5689413479994982
+  lightness: 0.9872581928502768
+  saturation: 0.1595737284515053
+  rhythmicContrast: 0.1592728600371629
+purpose: []
